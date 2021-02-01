@@ -11,5 +11,9 @@
   "license": "ISC",
   "publishConfig": {
     "registry": "http://localhost:8081/repository/npm-private/"
+  },
+  "dependencies": {
+    "application-a": "^1.0.0",
+    "axios": "^0.21.1"
   }
 }
